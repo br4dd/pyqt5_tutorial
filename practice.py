@@ -18,8 +18,9 @@ def the_window_style(win):
     win.setGeometry(200,200,800,500)
     win.setWindowTitle('HELLO WORLD!')
     win.setStyleSheet('background:#89d5c2')
+        
         # frameless
-    win.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+    #win.setWindowFlags(QtCore.Qt.FramelessWindowHint)
 
 
 def the_title(win):
