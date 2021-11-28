@@ -24,7 +24,7 @@ def the_window_style(win):
 
 def the_title(win):
     label = QLabel(win)
-    label.setText('Unmasked')
+    label.setText('HELLO WORLD')
 
 
 def run_application():
