@@ -50,24 +50,24 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButton_2.setFont(font)
         self.pushButton_2.setStyleSheet("QPushButton{\n"
-"    background-color: rgb(27, 185, 146);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: hover{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: pressed{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"    padding-top: -5px;\n"
-"}")
+                                        "    background-color: rgb(27, 185, 146);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: hover{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: pressed{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "    padding-top: -5px;\n"
+                                        "}")
         self.pushButton_2.setFlat(False)
         self.pushButton_2.setObjectName("pushButton_2")
         self.widget = QtWidgets.QWidget(self.frame)
@@ -86,24 +86,24 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButton_3.setFont(font)
         self.pushButton_3.setStyleSheet("QPushButton{\n"
-"    background-color: rgb(27, 185, 146);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: hover{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: pressed{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"    padding-top: -5px;\n"
-"}")
+                                        "    background-color: rgb(27, 185, 146);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: hover{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: pressed{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "    padding-top: -5px;\n"
+                                        "}")
         self.pushButton_3.setFlat(False)
         self.pushButton_3.setObjectName("pushButton_3")
         self.pushButton_4 = QtWidgets.QPushButton(self.frame)
@@ -116,24 +116,24 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButton_4.setFont(font)
         self.pushButton_4.setStyleSheet("QPushButton{\n"
-"    background-color: rgb(27, 185, 146);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: hover{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: pressed{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"    padding-top: -5px;\n"
-"}")
+                                        "    background-color: rgb(27, 185, 146);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: hover{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: pressed{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "    padding-top: -5px;\n"
+                                        "}")
         self.pushButton_4.setFlat(False)
         self.pushButton_4.setObjectName("pushButton_4")
         self.pushButton_6 = QtWidgets.QPushButton(self.frame)
@@ -146,24 +146,24 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButton_6.setFont(font)
         self.pushButton_6.setStyleSheet("QPushButton{\n"
-"    background-color: rgb(27, 185, 146);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: hover{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: pressed{\n"
-"    background-color: rgb(31, 211, 166)\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"    padding-top: -5px;\n"
-"}")
+                                        "    background-color: rgb(27, 185, 146);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: hover{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: pressed{\n"
+                                        "    background-color: rgb(31, 211, 166)\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "    padding-top: -5px;\n"
+                                        "}")
         self.pushButton_6.setFlat(False)
         self.pushButton_6.setObjectName("pushButton_6")
         self.pushButton_7 = QtWidgets.QPushButton(self.frame)
@@ -176,24 +176,24 @@ class Ui_MainWindow(object):
         font.setWeight(75)
         self.pushButton_7.setFont(font)
         self.pushButton_7.setStyleSheet("QPushButton{\n"
-"    background-color: rgb(33, 113, 93);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: hover{\n"
-"    background-color: rgb(33, 113, 93);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"}\n"
-"QPushButton: pressed{\n"
-"    background-color: rgb(33, 113, 93);\n"
-"    border: none;\n"
-"    color: rgb(255, 255, 255);\n"
-"    border-radius: 8px;\n"
-"    padding-top: -5px;\n"
-"}")
+                                        "    background-color: rgb(33, 113, 93);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: hover{\n"
+                                        "    background-color: rgb(33, 113, 93);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "}\n"
+                                        "QPushButton: pressed{\n"
+                                        "    background-color: rgb(33, 113, 93);\n"
+                                        "    border: none;\n"
+                                        "    color: rgb(255, 255, 255);\n"
+                                        "    border-radius: 8px;\n"
+                                        "    padding-top: -5px;\n"
+                                        "}")
         self.pushButton_7.setFlat(False)
         self.pushButton_7.setObjectName("pushButton_7")
         self.label_2 = QtWidgets.QLabel(self.frame)
@@ -249,6 +249,6 @@ class Ui_MainWindow(object):
         self.pushButton_6.setText(_translate("MainWindow", "LOGS"))
         self.pushButton_7.setText(_translate("MainWindow", "GET STARTED"))
         self.label_2.setText(_translate("MainWindow", "Mandate Safety, \n"
-"Mandate Safety"))
+                                        "Mandate Safety"))
         self.label_4.setText(_translate("MainWindow", "Powered by CloverByte, 2021"))
 import resources
