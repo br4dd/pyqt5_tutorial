@@ -6,6 +6,16 @@ from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
 
 
+def the_window_style(win):
+        # x, y, w, h
+    win.setGeometry(300,200,800,500)
+    win.setWindowTitle('HELLO WORLD!')
+    win.setStyleSheet('background:#89d5c2')
+        
+        # frameless
+    win.setWindowFlags(QtCore.Qt.FramelessWindowHint)
+
+
 def button_launch(win):
     button = QPushButton(win)
     button.setText('LAUNCH')
@@ -31,14 +41,6 @@ def button_get_started(win):
     button.setText('GET STARTED')
     button.move(525,250)
 
-def the_window_style(win):
-        # x, y, w, h
-    win.setGeometry(200,200,800,500)
-    win.setWindowTitle('HELLO WORLD!')
-    win.setStyleSheet('background:#89d5c2')
-        
-        # frameless
-    win.setWindowFlags(QtCore.Qt.FramelessWindowHint)
 
 
 def label_title(win):
